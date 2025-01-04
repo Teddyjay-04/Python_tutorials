@@ -27,4 +27,4 @@ Feel free to explore the code, learn from my notes, or even contribute if you'd 
 ## Acknowledgments
 This repository is inspired by my love for learning and curiosity about Python programming.
 # Contact Me 
-[Email](jamesteddy411@gmail.com)
+[Email](jamesteddy411@gmail.com) ;
